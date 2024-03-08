@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Andre Joshua Bautista</h1>
 <h3 align="center">A BSIT Student from Philippines</h3>
-![image](https://github.com/dree14345/dree14345/assets/98745591/c36bab83-4cf8-4c1e-8548-762286f60c62)
+<img src="https://media0.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b9528l8mpl1brn4xmytpv9xbiqf23lhndwik8nvvpj2f&ep=v1_gifs_search&rid=200w.gif&ct=g" />
 
 
 - 🔭 I’m currently studying at **Eastern Mindanao College of Technology**
